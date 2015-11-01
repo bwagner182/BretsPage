@@ -44,3 +44,8 @@ Temporary Items
 __pycache__/
 __pycache__/fresh_tomatoes.cpython-34.pyc
 __pycache__/fresh_tomatoes.cpython-34.pyc
+*.pyc
+__pycache__/media.cpython-34.pyc
+*.pyc
+__pycache__/fresh_tomatoes.cpython-34.pyc
+*.pyc
